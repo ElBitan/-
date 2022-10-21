@@ -1,5 +1,10 @@
  @import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
 body{background-color: #4B2374;}
+
+body:hover{
+background-color:  #1C1C1E ;
+}
+
 p{background-color: #ddd;}
 #b{color:white;
 background-color: #1C1C1E;
