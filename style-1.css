@@ -1,0 +1,58 @@
+body{
+background-color:#4B2374;
+}
+body:hover{
+background-color:#003737;}
+#a1{font-size:50px;
+color:black;
+border-radius:20px;
+border:solid #002F2E 20px;
+background:#852F2E;
+text-align:center;
+}
+#a2{font-size:50px;
+color:#852F2E;
+border-radius:20px;
+border:solid #85E1FF 20px;
+background:#C2E1FF;
+text-align:center;
+}
+#a3{font-size:50px;
+color:#85E1FF;
+border-radius:20px;
+border:solid #F5F113 20px;
+background:#FFFF87;
+text-align:center;
+}
+#a4{font-size:50px;
+color:#FFFF87;
+border-radius:20px;
+border:solid #FF00FF 20px;
+background:#FF54DB;
+text-align:center;
+
+}
+#a5{font-size:50px;
+color:#FFFFFF;
+border-radius:20px;
+border:solid #FF4000 20px;
+background:#FF0000;
+text-align:center;
+}
+a{
+text-decoration: none;}
+
+h1{font-size:50px;
+color:black;
+border-radius:20px;
+border:solid #85FFA2 20px ;
+background:#85FFA2;
+text-align:center;
+
+}
+
+@media (prefers-color-scheme: dark) {
+body {
+background-color: #003737;
+}
+}
